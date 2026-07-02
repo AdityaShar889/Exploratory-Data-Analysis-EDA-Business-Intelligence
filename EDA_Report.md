@@ -4,7 +4,7 @@
 
 ### Submitted By
 
-**Name:** Aradhya Maheshwari
+**Name:** Aditya Sharma
 
 **Internship Domain:** Data Analytics
 
